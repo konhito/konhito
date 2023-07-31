@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Aditya Singh
 🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!
 
 
