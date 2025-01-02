@@ -7,6 +7,8 @@ I love coding in Javascript and Python :snake:.I'm a freelancer and occassionall
 
 <!-- ### Let's Connect :coffee: -->
 
+###
+
 <p align="center">
 	<a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://twitter.com/konhit0"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
