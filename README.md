@@ -5,9 +5,7 @@ I love coding in Javascript and Python :snake:.I'm a freelancer and occassionall
 ⚡ Fun fact:<br>
 🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!<br>💼 I have experience working on both frontend and backend projects <br> 🔭I love building scalable and user-friendly applications.
 
-<!-- ### Let's Connect :coffee: -->
-
-###
+### Let's Connect :coffee:
 
 <p align="center">
 	<a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
