@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<div style="margin-top: -20px;">
+<div style="margin-top: -20px; font-weight: bold;">
 I'm Aditya Singh
 </div>
 
