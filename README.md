@@ -1,10 +1,6 @@
-![alt text](./images/new1.png)
+![alt text](./images/2.png)
 
-# 💫 About Me:
-
-<div style="margin-top: -20px; font-weight: bold;">
-I'm Aditya Singh
-</div>
+# 💫 About Me: I'm Aditya Singh
 
 🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!<br>💼 I have experience working on both frontend and backend projects <br> 🔭I love building scalable and user-friendly applications.
 
