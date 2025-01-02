@@ -1,4 +1,4 @@
-![alt text](./images/2.png)
+![alt text](./images/3.jpg)
 
 # 💫 About Me: I'm Aditya Singh
 
