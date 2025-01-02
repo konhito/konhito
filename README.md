@@ -2,9 +2,7 @@
 
 🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!<br>💼 I have experience working on both frontend and backend projects <br> 🔭I love building scalable and user-friendly applications.
 
-## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/konhit0)
 
 # 💻 Tech Stack:
 
@@ -12,8 +10,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=konhito&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=konhito&theme=monokai&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=konhito&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
