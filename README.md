@@ -13,7 +13,7 @@ I love coding in Javascript and Python :snake:.I'm a freelancer and occassionall
 	<a href="https://www.linkedin.com/in/konhito/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/konhit0"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href=""><img src="https://img.icons8.com/?size=50&id=wDGo581Ea5Nf&format=png&color=000000" alt="Leetcode"/></a>
+    <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="codechef"/></a>
 </p>
 
 ## ![alt text](./images/bottom.svg)
