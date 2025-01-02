@@ -1,7 +1,8 @@
 ![alt text](./images/2.png)
 
-I love coding in Javascript and Python :snake:.
+I love coding in Javascript and Python :snake:.I'm a freelancer and occassionally participate in hackathons.
 
+⚡ Fun fact:
 🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!<br>💼 I have experience working on both frontend and backend projects <br> 🔭I love building scalable and user-friendly applications.
 
 ### Let's Connect :coffee:
