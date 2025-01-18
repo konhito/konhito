@@ -1,4 +1,4 @@
-![alt text](./images/2.png)
+![alt text](./images/top.svg)
 
 I love coding in Javascript and Python :snake:.I'm a freelancer and occassionally participate in hackathons.
 
