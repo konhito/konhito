@@ -16,6 +16,11 @@ I love coding in **JavaScript** and **Python** 🐍. Freelancing keeps me busy, 
 
 ---
 
+
+---
+
+![alt text](./images/bottom.svg)
+
 ### ☕ Let's Connect
 <p align="center">
   <a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -26,9 +31,6 @@ I love coding in **JavaScript** and **Python** 🐍. Freelancing keeps me busy, 
   <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="Codechef"/></a>
 </p>
 
----
-
-![alt text](./images/bottom.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/konhito/konhito/output/github-snake-dark.svg" />
