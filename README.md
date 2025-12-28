@@ -1,22 +1,34 @@
 ![alt text](./images/top.svg)
 
-I love coding in Javascript and Python :snake:.I'm a freelancer and occassionally participate in hackathons.
+Hey there! I'm **Aditya Singh** 👋  
+I love coding in **JavaScript** and **Python** 🐍. Freelancing keeps me busy, and I occasionally dive into hackathons for that extra thrill.
 
-⚡ Fun fact:<br>
-🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!<br>💼 I have experience working on both frontend and backend projects <br> 🔭I love building scalable and user-friendly applications.
+---
 
-### Let's Connect :coffee:
+### ⚡ Fun Stuff About Me
+- 🔭 Currently exploring **computer vision**  
+- 🤝 Always up for **React.js collabs**  
+- 🌱 Learning **Rust** (because why not?)  
+- 💬 Ask me anything about **Python** & **JavaScript**  
+- ⚡ Fun fact: your face!! 😎  
+- 💼 Experienced in both **frontend & backend projects**  
+- 🚀 Passionate about building **scalable & user-friendly applications**
 
+---
+
+### ☕ Let's Connect
 <p align="center">
-	<a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://twitter.com/codewithaddy"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
-	<a href="https://www.linkedin.com/in/konhito/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="codechef"/></a>
+  <a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://twitter.com/codewithaddy"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/konhito/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="Codechef"/></a>
 </p>
 
-## ![alt text](./images/bottom.svg)
+---
+
+![alt text](./images/bottom.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/konhito/konhito/output/github-snake-dark.svg" />
@@ -24,4 +36,4 @@ I love coding in Javascript and Python :snake:.I'm a freelancer and occassionall
   <img alt="github-snake" src="https://raw.githubusercontent.com/konhito/konhito/output/github-snake.svg" />
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Made with ❤️ using GPRM -->
